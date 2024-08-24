@@ -6,8 +6,8 @@
   <li>💬 Ask me about C/C++, Python.</li> 
   <li>🌱 I’m currently learning <b>Front End Web Development and Machine Learning</b>.</li>
   <li>📫 Ask me anything at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
-  <li>⚡ Fun fact: I love solving puzzles, both in code and in life!</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and problem-solving challenges.</li>
+  <li>⚡ Fun fact: I love solving puzzles, both in code and in life!</li>
 </ul>
 
 
